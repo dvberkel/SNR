@@ -22,4 +22,13 @@ The [Fermi Paradox][fermi] is
 > According to this line of thinking, the Earth should have already been visited
 > by extraterrestrial aliens. 
 
+## Signal-to-Noise Ratio
+[Signal-to-noise][snr] ratio is (abbreviated to SNR) is 
+
+> a measure used in science and engineering that compares the level of a desired
+> signal to the level of background noise.
+
+One way to improve the signal-to-noise ratio is filter a signal.
+
 [fermi]: https://en.wikipedia.org/wiki/Fermi_paradox
+[snr]: https://en.wikipedia.org/wiki/Signal-to-noise_ratio
