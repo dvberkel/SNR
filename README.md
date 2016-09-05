@@ -30,5 +30,10 @@ The [Fermi Paradox][fermi] is
 
 One way to improve the signal-to-noise ratio is filter a signal.
 
+## Game Concept
+One is presented with a signal which seems to be only noise. There is a very
+faint signal hidden among the noise. One needs to filter the signal to improve
+the signal-to-noise ratio, and detect the extra-terrestial message.
+
 [fermi]: https://en.wikipedia.org/wiki/Fermi_paradox
 [snr]: https://en.wikipedia.org/wiki/Signal-to-noise_ratio
